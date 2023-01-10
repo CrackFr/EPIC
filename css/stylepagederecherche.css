@@ -1,0 +1,49 @@
+.accueilpagederecherche{
+padding-bottom: 200px;
+background-color: rgb(102, 50, 255);
+}
+
+.appuyezdecouvrez{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+/*.boutonderechercheactif{
+width: 200px;
+display: block;
+margin: auto;
+}*/
+
+/*.boutonderechercheactif:hover
+{
+  background-image:url(/assets/img/boutonderechercheactif.png);
+}
+
+.btn-quatre{
+    margin-left: 80px;
+}*/
+
+.overlay-image {
+    display: block;
+    margin: 0 auto; 
+    align-items: center;
+    position: relative;
+    width: 200px;
+   }
+
+.overlay-image .image {
+    width: 200px;
+    height: auto;
+   }
+.overlay-image .hover {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+}
+
+   .overlay-image:hover .hover {
+    opacity: 1;
+   }

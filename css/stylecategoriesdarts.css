@@ -1,0 +1,39 @@
+/*
+Theme Name: Categoriesdarts
+*/
+
+.questioncategories{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.categoriesdarts{
+    display: flex;
+    justify-content: space-around;
+  }
+
+.btn-primary-quatre{
+    width: 300px;
+    height: 45px;
+    margin: 0.5em 0 0.5em 0;
+    --bs-btn-padding-x: 0rem;
+    --bs-btn-padding-y: 0rem;
+    --bs-btn-font-size: 25px;
+    --bs-btn-font-weight: 600;
+    --bs-btn-font-family: apotek;
+    --text-align: center;
+    --bs-btn-color: #ffff00;
+    --bs-btn-bg: rgb(39, 0, 93);
+    --bs-btn-border-color: white;
+    --bs-btn-border-radius: 20px;
+    --bs-btn-hover-color: rgb(39, 0, 93);
+    --bs-btn-hover-bg: #ffff00;
+    --bs-btn-hover-border-color: white;
+
+}
+
+/*.btn{
+    --bs-btn-padding-x: 0rem;
+    --bs-btn-padding-y: 0rem;
+}*/
+

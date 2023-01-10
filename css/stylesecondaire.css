@@ -1,0 +1,27 @@
+/*
+Theme Name: StyleSecondaire
+*/
+
+.pages-secondaires-titre{
+    background-color: rgb(108, 74, 156);
+    width: 100%;
+    margin: 0px 0px;
+    padding: 5px;
+    padding-left: 40px;
+    --bs-border-color:  rgb(193, 192, 192);
+  }
+
+.pictocroixjaune{
+    margin-top: 10px;
+    margin-right: 15px;
+    width: 25px;
+    height: 25px;
+    display: block;
+    float: right;
+    align-items: center;
+}
+
+.pages-secondaires-suite{
+    padding: 335px;
+    background-color: rgb(39, 0, 93) ;
+  }

@@ -1,0 +1,95 @@
+/*.accueilespacep {
+    background-color: rgb(102, 50, 255);
+    padding: 0;
+}
+
+.accueilespacep .photodeprofil {
+    display: block;
+    justify-content: center;
+    padding-top: 100px;
+    width: 200px;
+}
+
+.nom {
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+}
+
+
+
+.espacep .row .row-cols-2 .col-6 .mx-auto {
+    padding-top: 200px;
+    padding-bottom: 250px;
+}
+.btn-primary-trois {
+    --bs-btn-padding-y: 10px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    width: 300px;
+    height: 45px;
+    align-content: center;
+    --bs-btn-font-size: 15px;
+    --bs-btn-font-weight: 600;
+    --bs-btn-font-family: bc-sklonar;
+    --bs-btn-color: #ffff00;
+    --bs-btn-bg: rgb(39, 0, 93);
+    --bs-btn-border-color: white;
+    --bs-btn-border-radius: 20px;
+    --bs-btn-hover-color: rgb(39, 0, 93);
+    --bs-btn-hover-bg: #ffff00;
+    --bs-btn-hover-border-color: white;
+
+}
+
+.questioncategories{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}*/
+
+.accueilespacep {
+    background-color: rgb(102, 50, 255);
+    padding-top: 0px;
+    padding-bottom: 180px;
+}
+
+.accueilespacep .photodeprofil {
+    display: block;
+    padding-top: 100px;
+    width: 200px;
+}
+
+.nom{ 
+    margin-top: 10px;
+    padding-bottom: 80px;
+}
+
+.espacep{
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-primary-trois{
+    width: 300px;
+    height: 45px;
+    margin: 0.5em 0 1.5em 0;
+    --bs-btn-padding-x: 0rem;
+    --bs-btn-padding-y: 0rem;
+    --bs-btn-font-size: 25px;
+    --bs-btn-font-weight: 600;
+    --bs-btn-font-family: apotek;
+    --text-align: center;
+    --bs-btn-color: #ffff00;
+    --bs-btn-bg: rgb(39, 0, 93);
+    --bs-btn-border-color: white;
+    --bs-btn-border-radius: 20px;
+    --bs-btn-hover-color: rgb(39, 0, 93);
+    --bs-btn-hover-bg: #ffff00;
+    --bs-btn-hover-border-color: white;
+
+}
+
+/*.questioncategories{
+    background-color: #ffff00;
+}*/

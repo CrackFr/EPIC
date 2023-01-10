@@ -1,0 +1,63 @@
+.accueilconnexioninscription{
+    background-color: rgb(102, 50, 255);
+    padding-top: 0px;
+    padding-bottom: 500px;
+}
+
+.connectezvous{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+
+.btnconnexioninscription{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-primary-cinq{
+    width: 300px;
+    height: 45px;
+    margin: 0.5em 5em 0.5em 5em;
+    --bs-btn-padding-x: 0rem;
+    --bs-btn-padding-y: 0rem;
+    --bs-btn-font-size: 25px;
+    --bs-btn-font-weight: 600;
+    --bs-btn-font-family: apotek;
+    --text-align: center;
+    --bs-btn-color: #ffff00;
+    --bs-btn-bg: rgb(102, 50, 255);
+    --bs-btn-border-color: white;
+    --bs-btn-border-radius: 20px;
+    --bs-btn-hover-color: rgb(39, 0, 93);
+    --bs-btn-hover-bg: rgb(219, 194, 255);
+    --bs-btn-hover-border-color: white;
+
+}
+
+.btn-primary-cinq-first{
+    width: 300px;
+    height: 45px;
+    margin: 0.5em 5em 0.5em 5em;
+    --bs-btn-padding-x: 0rem;
+    --bs-btn-padding-y: 0rem;
+    --bs-btn-font-size: 25px;
+    --bs-btn-font-weight: 600;
+    --bs-btn-font-family: apotek;
+    --text-align: center;
+    --bs-btn-color: rgb(39, 0, 93);
+    --bs-btn-bg: #ffff00;
+    --bs-btn-border-color: white;
+    --bs-btn-border-radius: 20px;
+    --bs-btn-hover-color: rgb(39, 0, 93);
+    --bs-btn-hover-bg: rgb(219, 194, 255) ;
+    --bs-btn-hover-border-color: white;
+
+}
+
+/*.inscription{
+    background-color:rgb(39, 0, 93) ;
+
+}*/
